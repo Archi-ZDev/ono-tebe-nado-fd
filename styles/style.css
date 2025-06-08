@@ -53,7 +53,6 @@
     padding-left: 184px;
     list-style: none;
     width: 240px;
-    padding-left: 184px;
     text-decoration: underline;
     text-underline-position:under;
 
@@ -291,9 +290,8 @@
     line-height: 24px;
     letter-spacing: 0%;
     margin-left: 25px;
-    width: 688px;
     width:693px;
-    
+
 }
 .footer {
     display: grid;
