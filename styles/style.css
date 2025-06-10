@@ -249,7 +249,7 @@
   line-height: 24px;
   letter-spacing: 0%;
   margin-left: 25px;
-  width: 693px;
+  width: 690px;
 }
 .footer {
   display: grid;
@@ -288,8 +288,8 @@
   line-height: 100%;
   letter-spacing: 0%;
   text-align: center;
-  padding-right: 114px;
-  padding-top: 8px;
+  padding-right: 177px;
+  padding-top: 3px;
 }
 .footer__social-list {
   list-style: none;
@@ -297,7 +297,7 @@
   width: 164px;
   min-height: 64px;
   border-width: 1px;
-  padding-right: 50px;
+  padding-right: 126px;
   gap: 48px;
   padding-bottom: 131px;
 }
